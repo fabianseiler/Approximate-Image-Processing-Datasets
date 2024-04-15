@@ -29,6 +29,7 @@ This datasets consists of 21 entries which are shown with the corresponding sour
 ## Grayscale Filtering
 For the grayscale filtering we also took classics from different image processing applications.
 Since each image is processed seperatly from each other they vary in size.
+This dataset also consists of 21 entries which are shown with their corresponding sources.
 + Image 0
 + Image 1
 + Image 2
@@ -50,8 +51,4 @@ Since each image is processed seperatly from each other they vary in size.
 + Image 18
 + Image 19
 + Image 20
-
-
-
-This dataset also consists of 21 entries which are shown with their corresponding sources.
 
