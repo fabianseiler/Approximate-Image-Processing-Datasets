@@ -4,51 +4,52 @@ This repository contains datasets for image addition and grayscale filtering. Th
 ## Image Addition
 For addition all images were resized to 256x256, so that they can be added together, and a grayscale filter was applied via open-cv in python.
 This datasets consists of 21 entries which are shown with the corresponding sources.
-+ Image 0
-+ Image 1
-+ Image 2
-+ Image 3
-+ Image 4
-+ Image 5
-+ Image 6
-+ Image 7
-+ Image 8
-+ Image 9
-+ Image 10
-+ Image 11
-+ Image 12
-+ Image 13
-+ Image 14
-+ Image 15
-+ Image 16
-+ Image 17
-+ Image 18
-+ Image 19
-+ Image 20
++ boat.tiff
++ cameraman.tiff
++ circuit.tiff
++ clock.tiff
++ coins.png
++ house.tiff
++ jellybeans.tiff
++ jetplane.tiff
++ lake.tiff
++ lena.tiff
++ liftingbody.png
++ livingroom.tiff
++ mandril.tiff
++ peppers.tiff
++ pirate.tiff
++ pout.tiff
++ rice.png
++ tree.tiff
++ walkbridge.tiff
++ woman_blonde.tiff
++ woman_darkhair.tiff
 
 ## Grayscale Filtering
 For the grayscale filtering we also took classics from different image processing applications.
 Since each image is processed seperatly from each other they vary in size.
 This dataset also consists of 21 entries which are shown with their corresponding sources.
-+ Image 0
-+ Image 1
-+ Image 2
-+ Image 3
-+ Image 4
-+ Image 5
-+ Image 6
-+ Image 7
-+ Image 8
-+ Image 9
-+ Image 10
-+ Image 11
-+ Image 12
-+ Image 13
-+ Image 14
-+ Image 15
-+ Image 16
-+ Image 17
-+ Image 18
-+ Image 19
-+ Image 20
++ airplane.tiff
++ boat_on_lake.tiff
++ cablecar.bmp
++ cornfield.bmp
++ female_ntsc.tiff
++ flamingos.jpg
++ fruits.png
++ girl.bmp
++ indiancorn.jpg
++ lena_color.tiff
++ llama.jpg
++ mandril_color.tif
++ monarch.bmp
++ peacock.jpg
++ pens.bmp
++ peppers.tiff
++ sherlock.jpg
++ toysnoflash.png
++ trailer.jpg
++ tulips.png
++ yacht.bmp
+
 
