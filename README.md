@@ -53,7 +53,7 @@ This dataset also consists of 21 entries which are shown with their correspondin
 + tulips.png [3]
 +yacht.bmp [4]
 
-[1] SIPI Image Database - https://sipi.usc.edu/database/database.php
-[2] MATLAB Example Data Sets - Images
-[3] https://github.com/mohammadimtiazz/standard-test-images-for-Image-Processing/tree/master/standard_test_images
-[4] https://www.kaggle.com/datasets/saeedehkamjoo/standard-test-images?select=STI
+[1] SIPI Image Database - https://sipi.usc.edu/database/database.php <br />
+[2] MATLAB Example Data Sets - Images <br />
+[3] https://github.com/mohammadimtiazz/standard-test-images-for-Image-Processing/tree/master/standard_test_images <br />
+[4] https://www.kaggle.com/datasets/saeedehkamjoo/standard-test-images?select=STI <br />
