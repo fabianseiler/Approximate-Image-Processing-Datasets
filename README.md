@@ -8,7 +8,7 @@ It is not recommended to use this datasets as a complete evaluation for approxim
 ## Image Addition
 For addition all images were resized to 256x256, so that they can be added together in many different combinations, and a grayscale filter was applied via open-cv in python before the adding operation.
 This datasets consists of 21 entries which are shown with the corresponding sources. 
-We choose a combination of general objects like boat.tiff and clock.tiff, images of humans like lena.tiff and cameraman.tiff, backgound (landscape) images like lake.tiff and walkbridge.tiff, as well as patterns like coins.png and rice.png to provide variety in image content.
+We choose a combination of general objects like boat.tiff and clock.tiff, images of humans like pout.tiff and cameraman.tiff, backgound (landscape) images like lake.tiff and walkbridge.tiff, as well as patterns like coins.png and rice.png to provide variety in image content.
 + boat.tiff [1]
 + cameraman.tiff [2]
 + circuit.tiff [2]
@@ -28,23 +28,24 @@ We choose a combination of general objects like boat.tiff and clock.tiff, images
 + rice.png [2]
 + tree.tiff [1]
 + walkbridge.tiff [3]
++ walter_cronkite.tiff [1]
 + woman_blonde.tiff [3]
 + woman_darkhair.tiff [3]
 
 ## Grayscale Filtering
 For the grayscale filtering we also choose well-known images with varying sizes and contents to also include more variety.
-We choose a representative combination of animals like flamingos.jpg and peacock.jpg, general objects like toysnoflash.png and peppers.tiff, landscapes like cornfield.bmp and boat_on_lake.tiff and humans like lena_color.tiff and girl.bmp.
+We choose a representative combination of animals like flamingos.jpg and peacock.jpg, general objects like toysnoflash.png and peppers.tiff, and landscapes like cornfield.bmp.
 This dataset also consists of 21 entries which are shown with their corresponding sources.
 + airplane.tiff [1]
 + boat_on_lake.tiff [1]
 + cablecar.bmp [4]
 + cornfield.bmp [4]
++ couple.tiff [1]
 + female_ntsc.tiff [1]
 + flamingos.jpg [2]
 + fruits.png [4]
 + girl.bmp [4]
 + indiancorn.jpg [2]
-+ lena_color.tiff [3]
 + llama.jpg [2] 
 + mandril_color.tif [1]
 + monarch.bmp [3]
