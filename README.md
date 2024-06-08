@@ -18,7 +18,6 @@ We choose a combination of general objects like boat.tiff and clock.tiff, images
 + jellybeans.tiff [1]
 + jetplane.tiff [3]
 + lake.tiff [3]
-+ lena.tiff [3]
 + liftingbody.png [2]
 + livingroom.tiff [3]
 + mandril.tiff [1]
